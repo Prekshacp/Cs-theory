@@ -1,1 +1,1 @@
-# DBMS
+# CS-theory
